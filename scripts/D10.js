@@ -1,3 +1,4 @@
+console.log('File JS collegato correttamente')
 /*
 REGOLE
 - Tutte le risposte devono essere scritte in JavaScript
